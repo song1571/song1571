@@ -29,5 +29,16 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 
+## ⚡ Lee TaeHun's GitHub Stats ⚡
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=song1571&show_icons=true&theme=radical)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=song1571&theme=radical&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=song1571&layout=compact&theme=radical)
+
 
 
