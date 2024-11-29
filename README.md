@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![AOP Alliance](https://img.shields.io/badge/AOP%20Alliance-000000?style=for-the-badge)
+![SMTP](https://img.shields.io/badge/SMTP-2E2E2E?style=for-the-badge&logo=smtp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)  
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat&logo=java&logoColor=white)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)  
-![AOP Alliance](https://img.shields.io/badge/AOP%20Alliance-000000?style=flat)  
-![SMTP](https://img.shields.io/badge/SMTP-2E2E2E?style=flat&logo=smtp&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
